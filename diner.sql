@@ -66,6 +66,7 @@ GROUP BY
 	customer_id
 ORDER BY
 	customer_id;
+-t
 -- A spent 76$, B spent 75$ and C spent 36$.
 
 -- 2. How many days has each customer visited the restaurant?
